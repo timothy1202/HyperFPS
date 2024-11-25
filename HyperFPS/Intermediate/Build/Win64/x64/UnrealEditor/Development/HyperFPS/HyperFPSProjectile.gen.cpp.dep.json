@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\git\\new\\hyperfps\\hyperfps\\intermediate\\build\\win64\\unrealeditor\\inc\\hyperfps\\uht\\hyperfpsprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\git\\new\\hyperfps\\hyperfps\\intermediate\\build\\win64\\x64\\hyperfpseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\git\\new\\hyperfps\\hyperfps\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hyperfps\\definitions.hyperfps.h",
+            "c:\\git\\new\\hyperfps\\hyperfps\\source\\hyperfps\\hyperfpsprojectile.h",
+            "c:\\git\\new\\hyperfps\\hyperfps\\intermediate\\build\\win64\\unrealeditor\\inc\\hyperfps\\uht\\hyperfpsprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

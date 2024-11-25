@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HyperFPS",
+			"Path": "..\\Source\\HyperFPS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HyperFPSEditor",
+			"Path": "..\\Source\\HyperFPSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

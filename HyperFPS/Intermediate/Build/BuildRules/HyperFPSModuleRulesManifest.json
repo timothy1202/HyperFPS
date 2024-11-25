@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Git\\new\\HyperFPS\\HyperFPS\\Source\\HyperFPS\\HyperFPS.Build.cs",
+		"C:\\Git\\new\\HyperFPS\\HyperFPS\\Source\\HyperFPS.Target.cs",
+		"C:\\Git\\new\\HyperFPS\\HyperFPS\\Source\\HyperFPSEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}
