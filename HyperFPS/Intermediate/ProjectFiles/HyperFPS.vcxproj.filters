@@ -72,6 +72,12 @@
     <ClCompile Include="..\..\Source\HyperFPS\HyperFPSWeaponComponent.h">
       <Filter>Source\HyperFPS</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\HyperFPS\MainGameMode.cpp">
+      <Filter>Source\HyperFPS</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HyperFPS\MainGameMode.h">
+      <Filter>Source\HyperFPS</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\HyperFPS\MainHUD.cpp">
       <Filter>Source\HyperFPS</Filter>
     </ClCompile>

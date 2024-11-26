@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HyperFPSModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c691c441b3a8cd11b6734dc77367cf6c1873b60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e57a0c31c4ede2efeccb41368c1706b41b22e05e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HyperFPSModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HyperFPSModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
